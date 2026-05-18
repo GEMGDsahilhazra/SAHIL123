@@ -8,25 +8,16 @@ I am learning programming and aiming to become a Game Developer.
 - BTech Computer Engineering
 
 ## Skills
-- HTML (basic)
-- CSS (basic)
-- python (learning)
-- Git & GitHub (basic)
+- C 
 
 ## Interests
 - Game Development
 - AI/Ml
-- Coding
 - Gaming
 
 ## Goals
-- Learn C# and C++
-- Learn Unity Engine
 - Become a Game Developer/AI engineer
 - Build my own games
-
-## Projects
-I am currently working on learning projects.
 
 ## Contact
 - YouTube: SAHIL HAZRA 
